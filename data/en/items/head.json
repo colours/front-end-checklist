@@ -109,19 +109,6 @@
     "tags": ["all", "Meta tag"]
   },
   {
-    "title": "Windows Tiles",
-    "priority": "Low",
-    "description": "Windows tiles are present and linked.",
-    "code": "https://gist.github.com/thedaviddias/4cc20da1a32d201f8dd46edf47d7fb73.js",
-    "documentation": [
-      {
-        "title": "Browser configuration schema reference",
-        "url": "https://msdn.microsoft.com/en-us/library/dn320426(v=vs.85).aspx"
-      }
-    ],
-    "tags": ["all", "Meta tag"]
-  },
-  {
     "title": "Canonical",
     "priority": "Medium",
     "description": "Use rel=\"canonical\" to avoid duplicate content.",
